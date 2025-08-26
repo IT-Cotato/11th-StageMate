@@ -1,0 +1,8 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/IT-Cotato/11th-StageMate-FE.git
+	branch = main
+[submodule "backend"]
+	path = backend
+	url = https://github.com/IT-Cotato/11th-StageMate-BE.git
+	branch = develop

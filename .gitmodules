@@ -6,3 +6,7 @@
 	path = backend
 	url = https://github.com/IT-Cotato/11th-StageMate-BE.git
 	branch = develop
+[submodule "backend2"]
+	path = backend2
+	url = https://github.com/IT-Cotato/11th-StageMate-BE-2.git
+	branch = develop
